@@ -2,10 +2,11 @@ baseURL = 'https://braxmeierandreas.github.io/BLOG/'
 languageCode = 'de-de'
 title = 'Andreas Braxmeier'
 theme = "hugo-PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 [params]
-  defaulttheme = "hugo-PaperMod" # dark, light, auto
+  defaultTheme = "auto"
   description = "Master-Student | Tech-Enthusiast | Furtwangen"
   author = "Andreas Braxmeier"
   ShowReadingTime = true
@@ -18,9 +19,10 @@ paginate = 10
     Title = "Hi, ich bin Andreas 👋"
     Content = "Willkommen auf meinem Blog. Hier schreibe ich über Tech, mein Studium und alles, was mich bewegt."
 
-  [params.socialIcons]
-    github = "https://github.com/braxmeierandreas"
-    # linkedin = "https://linkedin.com/in/..."
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/braxmeierandreas"
+
 
 [menu]
   [[menu.main]]
