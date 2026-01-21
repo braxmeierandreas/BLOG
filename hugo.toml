@@ -1,11 +1,11 @@
 baseURL = 'https://braxmeierandreas.github.io/BLOG/'
 languageCode = 'de-de'
 title = 'Andreas Braxmeier'
-theme = "PaperMod"
+theme = "hugo-PaperMod"
 paginate = 10
 
 [params]
-  defaultTheme = "auto" # dark, light, auto
+  defaulttheme = "hugo-PaperMod" # dark, light, auto
   description = "Master-Student | Tech-Enthusiast | Furtwangen"
   author = "Andreas Braxmeier"
   ShowReadingTime = true
