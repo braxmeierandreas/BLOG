@@ -35,4 +35,4 @@ paginate = 10
     
 [markup]
   [markup.highlight]
-    style = "github-dark"
+    # style = "github-dark"
