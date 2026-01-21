@@ -2,24 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/hallo/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/setup/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/posts/hallo-welt-test/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/posts/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/welcome/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/setup/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/welcome/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/test/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/welcome/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://braxmeierandreas.github.io/BLOG/posts/welcome/</loc>
+    <lastmod>2026-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://braxmeierandreas.github.io/BLOG/posts/unbenannt/</loc>
+  </url><url>
+    <loc>https://braxmeierandreas.github.io/BLOG/categories/</loc>
   </url>
 </urlset>
