@@ -16,10 +16,10 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
 
 [params.assets]
-    favicon = "/favicon.ico"
-    favicon16x16 = "/favicon.png"
-    favicon32x32 = "/favicon.png"
-    apple_touch_icon = "/apple-touch-icon.png"
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon.png"
+    favicon32x32 = "favicon.png"
+    apple_touch_icon = "apple-touch-icon.png"
   
   [params.homeInfoParams]
     Title = "Hi, ich bin Andreas 👋"
