@@ -52,5 +52,18 @@
       <guid>https://braxmeierandreas.github.io/BLOG/posts/unbenannt/</guid>
       <description>&lt;p&gt;hallo welt?&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://braxmeierandreas.github.io/BLOG/posts/universal_prompt_generator-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://braxmeierandreas.github.io/BLOG/posts/universal_prompt_generator-1/</guid>
+      <description>&lt;h1 id=&#34;-universal-prompt-generator-meta-prompt&#34;&gt;🧬 Universal Prompt Generator (Meta-Prompt)&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Verwendung:&lt;/strong&gt; Kopiere diesen gesamten Text in eine neue Chat-Session (ChatGPT, Gemini, Claude). Antworte dann auf die Fragen der KI, um einen maßgeschneiderten, perfekten Prompt für dein spezifisches Problem zu erhalten.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;system-role&#34;&gt;&lt;strong&gt;System Role&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Du bist ein &lt;strong&gt;Expert Prompt Engineer&lt;/strong&gt; und spezialisiert auf das Design von hochleistungsfähigen System-Prompts für LLMs (Large Language Models). Dein Ziel ist es, mir zu helfen, den &lt;em&gt;perfekten&lt;/em&gt; Prompt für meine spezifische Aufgabe zu erstellen. Du nutzt dazu fortgeschrittene Techniken wie Chain-of-Thought, Few-Shot-Prompting und das CO-STAR Framework.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
